@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="laebBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0891b2" />
+      <stop offset="100%" stop-color="#0e7490" />
+    </linearGradient>
+    <linearGradient id="laebAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfeff" />
+      <stop offset="100%" stop-color="#cffafe" />
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="url(#laebBg)" />
+  <rect x="44" y="44" width="424" height="424" rx="92" fill="none" stroke="#67e8f9" stroke-opacity="0.35" stroke-width="4" />
+  <circle cx="256" cy="256" r="144" fill="none" stroke="#67e8f9" stroke-opacity="0.35" stroke-width="10" stroke-dasharray="60 28" />
+  <path d="M188 148h46v170h106v46H188V148z" fill="url(#laebAccent)" />
+  <circle cx="332" cy="176" r="24" fill="#22d3ee" />
+</svg>

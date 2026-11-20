@@ -1,0 +1,8 @@
+{
+  "name": "Làeb",
+  "description": "Làeb — Cyan-themed PDF & image compressor, passport size photo converter, precision cropper, AI text humanizer, and admin file analytics dashboard by pimpom groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
